@@ -8,7 +8,7 @@ import random
 def p(x):
 	print(list(x))
 
-N = 10000
+N = 100
 D = 10000
 
 def createRandomPoint():
